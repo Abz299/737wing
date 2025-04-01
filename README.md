@@ -1,2 +1,3 @@
 # 737wing
  Boeing 737 Wing CAD Model.
+Developed a high-fidelity 3D CAD model of a Boeing 737 wing using [insert software – e.g. CATIA, SolidWorks, or Fusion 360], focusing on accurately replicating its aerodynamic profile, structural components, and geometric details. The model includes essential features such as the wing box, flaps, ailerons, and winglet, constructed with reference to technical drawings and publicly available aerospace data. This project enhanced my understanding of aerospace structures, airfoil design, and complex surface modelling techniques, while reinforcing skills in parametric design and engineering accuracy.
